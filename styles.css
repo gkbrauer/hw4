@@ -1,0 +1,47 @@
+/* Your CSS code goes in this file. */
+
+body { font-family: "Arial";
+  margin: 100px auto;
+  width: 960px;
+ }
+
+/* h1 { font-family: "Curlz MT"}
+h1 { color: red;  } */
+
+h1 {
+  /* border: solid 10px black; */
+  /* margin: 100px; */
+  /* padding: 50px; */
+  color: magenta;
+  font-family: "Calibri";
+  font-size: 100%;
+}
+
+h2 {
+  border-bottom: solid 4px purple;
+  }
+
+td{
+  /* border: solid 10px black; */
+  /* margin: 100px; */
+  /* padding: 50px; */
+  color: black;
+  font-family: "Calibri";
+  font-size: 140%;
+  /* border: solid 2px black;  */
+}
+
+div { border: solid 1px purple;
+  padding: 13px;
+  margin: auto;
+}
+
+/* div {
+  border: solid 4px blue;
+  padding: 10px;
+} */
+
+.important {
+  background-color: yellow;
+  font-weight: bold;
+}
